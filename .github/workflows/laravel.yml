@@ -11,7 +11,7 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
-        server: vps88597.serveur-vps.net
-        username: admin_nycksoil.ci
-        password: CQL$*lnNUhhJa
-        server-dir: /web/
+        server: ftp.etoilesbrillantes.com
+        username: nycksoil@nycksoil.ci
+        password: Q3f!rL&a^r^M
+        server-dir: /
